@@ -1,0 +1,14 @@
+/* PastPerformance.css */
+.past-performance {
+    margin: 50px 0;
+  }
+  
+  .past-performance h3 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  .past-performance p {
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }
